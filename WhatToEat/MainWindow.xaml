@@ -1,0 +1,29 @@
+﻿<Window x:Class="WhatToEat.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WhatToEat"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="450">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="106,17,0,0" Name="KcalTextBox"  TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="106,62,0,0" Name="ProteinTextBox" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Hiányzó kalória" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top"/>
+        <Label Content="Hiányzó fehérje" HorizontalAlignment="Left" Margin="10,59,0,0" VerticalAlignment="Top"/>
+        <Label Content="Max mennyiség" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="106,107,0,0" x:Name="MaxAmountTextBox" TextWrapping="Wrap" Text="500" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Calculate!" HorizontalAlignment="Left" Margin="106,138,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" IsDefault="True"/>
+        <TextBlock HorizontalAlignment="Left" Margin="58,177,0,0" TextWrapping="Wrap" Name="Result"  Text="Eredmény" VerticalAlignment="Top" Height="202" Width="327"/>
+        
+        <CheckBox Content="Hús" HorizontalAlignment="Left" Name="CheckBoxMeat" Margin="246,17,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox Content="Tejtermék" HorizontalAlignment="Left" Name="CheckBoxMilk" Margin="246,37,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox Content="Tojás" HorizontalAlignment="Left" Name="CheckBoxEgg" Margin="246,57,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox Content="Zöldség" HorizontalAlignment="Left" Name="CheckBoxVegetable" Margin="246,77,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox Content="Magvak" HorizontalAlignment="Left" Name="CheckBoxSeeds" Margin="246,97,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox Content="Gabona" HorizontalAlignment="Left" Name="CheckBoxGrains" Margin="246,117,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <CheckBox Content="Készétel" HorizontalAlignment="Left" Name="CheckBoxMeal" Margin="246,137,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        
+
+    </Grid>
+</Window>

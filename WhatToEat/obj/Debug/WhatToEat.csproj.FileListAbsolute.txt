@@ -1,0 +1,14 @@
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\bin\Debug\WhatToEat.exe.config
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\bin\Debug\WhatToEat.exe
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\bin\Debug\WhatToEat.pdb
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat.csprojAssemblyReference.cache
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\MainWindow.g.cs
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\App.g.cs
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat_MarkupCompile.cache
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat_MarkupCompile.lref
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\MainWindow.baml
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat.g.resources
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat.Properties.Resources.resources
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat.csproj.GenerateResource.cache
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat.exe
+C:\Users\Z0001524\source\repos\WhatToEat\WhatToEat\obj\Debug\WhatToEat.pdb
